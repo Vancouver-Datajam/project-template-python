@@ -27,7 +27,7 @@ Sanity checking:
 
 |Date | Action item |
 | - | - |
-|Sep 13 - 17 |Participants are let in Discord, teams are formed between|
+|Sep 13 - 17 |Participants are let in Discord, teams are formed|
 |Sep 18 |[Workshop day!](https://www.vancouverdatajam.ca/workshops) Keynote: Making AI responsible with May Masoud|
 |Sep 19 |Project statements are released|
 |Sep 19-24 |Teams may work asynchronously (limited help desk support)|
