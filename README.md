@@ -1,4 +1,6 @@
-# Vancouver Datajam 2021 Project template (sample Python project)
+# Vancouver Datajam 2021 Project template 
+
+This repository contains a Python project template.
 
 ## Project title
 
