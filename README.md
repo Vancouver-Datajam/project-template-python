@@ -47,6 +47,6 @@ Sanity checking:
 |15:30 - 16:00| Team check in: teams discuss presentation format and preliminary results|
 |16:00 - 16:45| Teams prepare their 5-10 minute presentation, teams ensure all code is documented and stored in GitHub|
 |17:00| Project video submission deadline|
-|17:30 - 18:30| Project videos released on YouTube. Voting begins| 
+|17:30 - 18:30| Project videos released on YouTube. Vote for your favourite team demo!| 
 |18:30 - 20:00 | Career panel|
 |20:00 - 20:30 | People's Choice Award presented. Closing remarks|
