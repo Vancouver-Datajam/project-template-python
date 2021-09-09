@@ -17,4 +17,4 @@ Tell what we need to install for the scripts to run successfully (i.e. libraries
 
     python my_python_script.py parameter1
     
-### Script comsiderations and limitations
+### Script considerations and limitations
