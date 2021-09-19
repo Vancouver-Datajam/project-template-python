@@ -2,23 +2,26 @@
 
 This repository contains a Python project template.
 
-## Project title
+## Blackfoot Chat app
+
+## Acknowledgements
+This project is brought forward by a partner: Simon Fraser University, Department of Indigneous Studies and Department of Computing Science, by Prof. Eldon Yellowhorn and Dr. Angelica Lim.
+
 
 ## Project statement
+The goal of this project is to take existing .wav and .txt files with English translations of the Blackfoot language (and vice versa), and develop an interactive web based application that allows an English speaker to explore the Blackfoot language, and vice versa.
 
 ## Project team members
 
-Team lead:
+Team lead:Bryce Haley
 
-Mentor:
+Mentor: Oisin Bates
 
-Documentation:
+UI/UX: You-you
 
-Scripting:
+Development
 
-Modelling: 
 
-Sanity checking: 
 
 ## Vancouver Datajam 2021 Schedule:
 
